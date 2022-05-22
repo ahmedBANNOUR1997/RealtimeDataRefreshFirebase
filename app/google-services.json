@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77476211584",
+    "firebase_url": "https://esp-dht11-11b5f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp-dht11-11b5f",
+    "storage_bucket": "esp-dht11-11b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77476211584:android:578b2527b26a6423f36f65",
+        "android_client_info": {
+          "package_name": "org.o7planning.mystationcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77476211584-1gv2840pktdocv8b6usi2son4nt9ufnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGkLHTUWeR4VKflpWJxa1bxrW70I7LhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77476211584-1gv2840pktdocv8b6usi2son4nt9ufnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

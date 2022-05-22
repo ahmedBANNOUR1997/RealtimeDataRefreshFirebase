@@ -1,0 +1,2 @@
+rootProject.name = "station check"
+include ':app'
